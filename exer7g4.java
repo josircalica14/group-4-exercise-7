@@ -7,5 +7,6 @@ public class exer7g4{
         System.out.println("Members");
         System.out.println("1. Josir James S. Calica");
         System.out.println("2. Cup of Jay");
+		System.out.println("3. Rob Tagalog");
      }
 }
